@@ -19,9 +19,10 @@ This platform tackles the operational and logistical challenges of public transi
 - **💾 Data Storage**: AWS S3  
 - **🔄 ETL**: AWS Glue, AWS Glue DataBrew  
 - **🗃️ Database**: PostgreSQL on AWS RDS  
-- **📈 Visualization**: Tableau  
-- **⏰ Workflow Management**: Apache Airflow  
-- **💻 Programming Languages**: Python (ETL scripts, API integrations)  
+- **📈 Visualization**: Tableau   
+- **💻 Programming Languages**: Python, SQL  (ETL scripts, API integrations)
+- ![image](https://github.com/user-attachments/assets/20440263-a66e-4c1e-9295-ee3ce62ce833)
+
 
 ---
 
@@ -64,14 +65,3 @@ This platform tackles the operational and logistical challenges of public transi
 4. **📜 Create the database schema** in PostgreSQL using the provided SQL scripts in `schema/`.
 5. **📊 Connect Tableau** to PostgreSQL for dashboard creation.
 
----
-
-## 🤝 Contributions
-- **Navya Arveti**: ETL development, Kafka configuration, dashboard creation.  
-- **Sai Charan Reddy Kovvuru**: Machine learning model development, workflow management.
-
----
-
-## 📧 Contact
-For queries, reach out to:  
-- **Navya Arveti**: [📧 narveti@horizon.csueastbay.edu](mailto:narveti@horizon.csueastbay.edu)
